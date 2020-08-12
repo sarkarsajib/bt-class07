@@ -1,0 +1,20 @@
+/*
+body{
+    background-color: black;
+}*/
+.alert-custom{
+    background-color: #e47204;
+}
+.btn-custom{
+    background-color: wheat;
+    width: 200px;
+    height: 52px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+h2{
+   text-align: center;
+    text-transform: uppercase;
+    font-family: serif;
+}
